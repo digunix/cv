@@ -93,18 +93,10 @@ export const RESUME_DATA = {
         <>
           Lead a team dedicated to providing secure and scalable proxy solutions that offer unmatched reliability, speed, and anonymity, specifically designed for businesses needing uninterrupted data access. Developed and deployed scalable systems for secure and uninterrupted data access.
           <ul className="list-inside list-disc">
-            <li>
-              Partnering with AI startups, cybersecurity firms, and competitive intelligence teams to deliver proxy solutions tailored to their unique needs.
-            </li>
-            <li>
-              Designed scalable proxy architectures to optimize performance and reliability for web scraping, market intelligence, and cybersecurity use cases.
-            </li>
-            <li>
-              Design and implement scalable systems, unlocking access to hard-to-reach data while ensuring security and compliance.
-            </li>
-            <li>
-              Oversee the development of innovative proxy products that simplify data access for SMBs, SMEs, and enterprise clients
-            </li>
+            <li>Partnering with AI startups, cybersecurity firms, and competitive intelligence teams to deliver proxy solutions tailored to their unique needs.</li>
+            <li>Designed scalable proxy architectures to optimize performance and reliability for web scraping, market intelligence, and cybersecurity use cases.</li>
+            <li>Design and implement scalable systems, unlocking access to hard-to-reach data while ensuring security and compliance.</li>
+            <li>Oversee the development of innovative proxy products that simplify data access for SMBs, SMEs, and enterprise clients</li>
           </ul>
         </>
       ),
@@ -120,15 +112,9 @@ export const RESUME_DATA = {
           Oversaw IT strategy, development, and implementation, working with legal and enterprise clients to enhance infrastructure security and reliability.
           <ul className="list-inside list-disc">
             <li>Spearheaded internal IT projects, including infrastructure upgrades, process automation, and system integrations</li>
-            <li>
-             Ensured full operational readiness from Day One, transitioning all employees to a secure and fully functional remote setup during the COVID-19 lockdown, maintaining business continuity without disruptions. 
-            </li>
-            <li>
-              Implemented initiatives that improved team collaboration, productivity, and overall IT reliability through deployments of two-factor authentication, mobile device management, software migrations.
-            </li>
-            <li>
-              Led disaster recovery and network/cyber security initiatives through introspective firewalls, wifi upgrades to EAP and guest captive portals. off-site disaster recovery and testing, phishing simulations and training.
-            </li>
+            <li>Ensured full operational readiness from Day One, transitioning all employees to a secure and fully functional remote setup during the COVID-19 lockdown, maintaining business continuity without disruptions.</li>
+            <li>Implemented initiatives that improved team collaboration, productivity, and overall IT reliability through deployments of two-factor authentication, mobile device management, software migrations.</li>
+            <li>Led disaster recovery and network/cyber security initiatives through introspective firewalls, wifi upgrades to EAP and guest captive portals. off-site disaster recovery and testing, phishing simulations and training.</li>
           </ul>
         </>
       ),
@@ -181,49 +167,5 @@ export const RESUME_DATA = {
     "Business Continuity",
     "System Architecture",
     "Remote Team Leadership",
-  ],
-  projects: [
-    {
-      title: "Anonym.OS",
-      techStack: ["TypeScript", "Next.js", "Browser Extension", "PostgreSQL"],
-      description:
-        "Browser extension for debugging web applications. Includes taking screenshots, screen recording, E2E tests generation and generating bug reports",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
-      },
-    },
-    {
-      title: "Consultly",
-      techStack: [
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-        "Tailwind CSS",
-        "PostgreSQL",
-        "Redis",
-      ],
-      description:
-        "Platform for online consultations with real-time video meetings and scheduling",
-      logo: ConsultlyLogo,
-      link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
-      },
-    },
-    {
-      title: "Minimalist CV",
-      techStack: ["TypeScript", "Next.js", "Tailwind CSS"],
-      description:
-        "An open source minimalist, print friendly CV template with a focus on readability and clean design. >9k stars on GitHub",
-      logo: MonitoLogo,
-      link: {
-        label: "Minimalist CV",
-        href: "https://github.com/BartoszJarocki/cv",
-      },
-    },
   ],
 } as const;
