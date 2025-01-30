@@ -168,4 +168,5 @@ export const RESUME_DATA = {
     "System Architecture",
     "Remote Team Leadership",
   ],
+   projects: [],
 } as const;
