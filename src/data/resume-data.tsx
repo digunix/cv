@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://kevinmiller.info",
   contact: {
     email: "kevin@gdrg.io",
-    tel: "+14044146677",
+    tel: "",
     social: [
       {
         name: "GitHub",
@@ -67,18 +67,10 @@ export const RESUME_DATA = {
             <li>
               Developed and deployed security frameworks that ensure regulatory compliance and protect against emerging cyber threats.
             </li>
-            <li>
-              Managed complex, large-scale data migrations with zero downtime, ensuring seamless transitions and data integrity for enterprises.
-            </li>
-            <li>
-              Provided in-depth consulting on optimizing IT assets, enhancing performance, and reducing operational risks through tailored security strategies.
-            </li>
-             <li>
-              Assisted businesses in implementing scalable cloud and hybrid storage solutions, improving reliability and cost efficiency.
-            </li>
-            <li>
-              Designed incident response and disaster recovery plans, minimizing downtime and ensuring business continuity.
-            </li>
+            <li>Managed complex, large-scale data migrations with zero downtime, ensuring seamless transitions and data integrity for enterprises.</li>
+            <li>Provided in-depth consulting on optimizing IT assets, enhancing performance, and reducing operational risks through tailored security strategies.</li>
+            <li>Assisted businesses in implementing scalable cloud and hybrid storage solutions, improving reliability and cost efficiency.</li>
+            <li>Designed incident response and disaster recovery plans, minimizing downtime and ensuring business continuity.</li>
           </ul>
         </>
       ),
@@ -86,7 +78,7 @@ export const RESUME_DATA = {
     {
       company: "NinjaProxy",
       link: "https://ninjasproxy.com",
-      title: "Managing Partnerr",
+      title: "Managing Partner",
       start: "2022",
       end: null,
       description: (
