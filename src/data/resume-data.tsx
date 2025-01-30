@@ -84,119 +84,107 @@ export const RESUME_DATA = {
       ),
     },
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: [
-        "Remote",
-        "React",
-        "TypeScript",
-        "Node.js",
-        "GraphQL",
-        "Tailwind CSS",
-      ],
-      title: "Senior Full Stack Developer",
-      logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      company: "NinjaProxy",
+      link: "https://ninjasproxy.com",
+      title: "Managing Partnerr",
+      start: "2022",
+      end: null,
       description: (
         <>
-          Senior developer and squad leader for an enterprise agile meeting
-          platform.
+          Lead a team dedicated to providing secure and scalable proxy solutions that offer unmatched reliability, speed, and anonymity, specifically designed for businesses needing uninterrupted data access. Developed and deployed scalable systems for secure and uninterrupted data access.
           <ul className="list-inside list-disc">
             <li>
-              Built design system with Tailwind CSS, improving development speed
-              and time to market
+              Partnering with AI startups, cybersecurity firms, and competitive intelligence teams to deliver proxy solutions tailored to their unique needs.
             </li>
             <li>
-              Implemented engineering practices: PR automation, code review
-              guidelines, and workflows
+              Designed scalable proxy architectures to optimize performance and reliability for web scraping, market intelligence, and cybersecurity use cases.
             </li>
             <li>
-              Open source contributions to Relay DevTools and React i18n tooling
+              Design and implement scalable systems, unlocking access to hard-to-reach data while ensuring security and compliance.
+            </li>
+            <li>
+              Oversee the development of innovative proxy products that simplify data access for SMBs, SMEs, and enterprise clients
             </li>
           </ul>
         </>
       ),
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote", "React", "TypeScript", "Node.js", "Android", "Kotlin"],
-      title: "Lead Android Developer → Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      company: "Veristor (Verinext)",
+      link: "https://veristor.com",
+      title: "Director of Corporate Operations",
+      start: "2016",
+      end: "2022",
       description: (
         <>
-          Successfully transitioned from mobile to full-stack development while
-          leading distributed teams.
+          Oversaw IT strategy, development, and implementation, working with legal and enterprise clients to enhance infrastructure security and reliability.
           <ul className="list-inside list-disc">
+            <li>Spearheaded internal IT projects, including infrastructure upgrades, process automation, and system integrations</li>
             <li>
-              Led frontend team at Evercast, building real-time platform
-              supporting 30+ users per room with HD streaming and collaboration
-              tools
+             Ensured full operational readiness from Day One, transitioning all employees to a secure and fully functional remote setup during the COVID-19 lockdown, maintaining business continuity without disruptions. 
             </li>
             <li>
-              Developed offline-first Android app for DKMS, improving donor
-              registration process
+              Implemented initiatives that improved team collaboration, productivity, and overall IT reliability through deployments of two-factor authentication, mobile device management, software migrations.
             </li>
             <li>
-              Led development teams across multiple successful client projects
+              Led disaster recovery and network/cyber security initiatives through introspective firewalls, wifi upgrades to EAP and guest captive portals. off-site disaster recovery and testing, phishing simulations and training.
             </li>
           </ul>
         </>
       ),
     },
     {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
-      badges: ["On Site", "Android", "Java", "Kotlin"],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
+      company: "Veristor (Verinext)",
+      link: "https://veristor.com",
+      title: "Director of Professional and Migration Services",
+      start: "2011",
+      end: "2016",
+      description: (
+        <>
+          Led a team delivering IT infrastructure, data migration, and security solutions tailored to enterprise and legal sector clients.
+          <ul className="list-inside list-disc">
+            <li>Advised, managed on data protection, compliance, and disaster recovery strategies.</li>
+            <li>Managed teams for network and infrastructure projects for high-profile clients.</li>
+            <li>Managed cross-country migrations with zero downtime, ensuring seamless transitions for petabyte-scale data.</li>
+            <li>Implemented advanced planning and risk mitigation strategies to guarantee data integrity and operational continuity.</li>
+            <li>Became the GO-TO for IBM Global Migration Team when they couldn't complete a migration with their team and tools.</li>
+          </ul>
+        </>
+      ),
+    },
+    {
+      company: "Veristor (Verinext)",
+      link: "https://veristor.com",
+      title: "Sr. Storage Engineer",
+      start: "2006",
+      end: "2011",
       description: (
         <>
           First Android developer, grew and led a team of 15+ engineers while
           establishing engineering culture.
           <ul className="list-inside list-disc">
-            <li>
-              Developed apps for major Polish companies including LOT, Polskie
-              Radio, and Agora
-            </li>
-            <li>Built and mentored high-performing mobile development team</li>
+            <li>Helped design and deploy secure IT solutions for law firms such as **Troutman Sanders, King & Spalding, Alston & Bird**, ensuring compliance with legal industry standards.</li>
+            <li>Provided infrastructure support for government and enterprise clients, including **Oak Ridge National Laboratory** and **Lockheed Martin**.</li>
+            <li>Implemented secure, high-availability storage solutions for legal and classified environments.</li>
+            <li>Ensured business continuity through robust disaster recovery planning.</li>
           </ul>
         </>
       ),
     },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: ["On Site", "C/C++", "LTE", "Agile"],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description:
-        "Developed software for LTE base stations at enterprise scale, gaining strong fundamentals in software architecture, testing practices, and cross-team collaboration.",
-    },
   ],
   skills: [
-    "React/Next.js/Remix",
-    "TypeScript",
-    "Tailwind CSS",
-    "Design Systems",
-    "WebRTC",
-    "WebSockets",
-    "Node.js",
-    "GraphQL",
-    "Relay",
+    "Network Architecture",
+    "Server Architecture",
+    "Mobile Device Management",
+    "Remote Access",
+    "Disaster Recovery",
+    "Business Continuity",
     "System Architecture",
     "Remote Team Leadership",
   ],
   projects: [
     {
-      title: "Monito",
+      title: "Anonym.OS",
       techStack: ["TypeScript", "Next.js", "Browser Extension", "PostgreSQL"],
       description:
         "Browser extension for debugging web applications. Includes taking screenshots, screen recording, E2E tests generation and generating bug reports",
