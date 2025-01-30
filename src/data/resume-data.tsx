@@ -25,6 +25,8 @@ export const RESUME_DATA = {
     {
       school: "Certifications",
       degree: "VMWare VCP (2008), ISECOM OPST (2003)",
+      start: "",
+      end: "",
     },
   ],
   work: [
