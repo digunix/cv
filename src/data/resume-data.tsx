@@ -21,7 +21,7 @@ export const RESUME_DATA = {
       Adept at solving complex technical challenges with a strategic approach, ensuring compliance, business continuity, and operational efficiency.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/994381?v=4",
   personalWebsiteUrl: "https://kevinmiller.info",
   contact: {
     email: "kevin@gdrg.io",
@@ -61,19 +61,23 @@ export const RESUME_DATA = {
       end: null,
       description: (
         <>
-          Leading technical architecture of a blockchain-based film funding
-          platform.
+          Helping customers secure digital assets, including servers, IPs, and bandwidth, while providing comprehensive consulting on infrastructure security, risk mitigation, and data governance.
+
           <ul className="list-inside list-disc">
             <li>
-              Architecting migration from CRA to Next.js for improved
-              performance, SEO, and DX
+              Developed and deployed security frameworks that ensure regulatory compliance and protect against emerging cyber threats.
             </li>
             <li>
-              Established release process enabling faster deployments and
-              reliable rollbacks
+              Managed complex, large-scale data migrations with zero downtime, ensuring seamless transitions and data integrity for enterprises.
             </li>
             <li>
-              Implementing system-wide monitoring and security improvements
+              Provided in-depth consulting on optimizing IT assets, enhancing performance, and reducing operational risks through tailored security strategies.
+            </li>
+             <li>
+              Assisted businesses in implementing scalable cloud and hybrid storage solutions, improving reliability and cost efficiency.
+            </li>
+            <li>
+              Designed incident response and disaster recovery plans, minimizing downtime and ensuring business continuity.
             </li>
           </ul>
         </>
