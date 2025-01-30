@@ -56,9 +56,7 @@ export const RESUME_DATA = {
     {
       company: "Global Data Resource Group (GDRG)",
       link: "https://gdrg.io",
-      badges: [""],
       title: "Founder",
-      logo: ,
       start: "2022",
       end: null,
       description: (
