@@ -133,7 +133,7 @@ export const RESUME_DATA = {
             <li>Managed teams for network and infrastructure projects for high-profile clients.</li>
             <li>Managed cross-country migrations with zero downtime, ensuring seamless transitions for petabyte-scale data.</li>
             <li>Implemented advanced planning and risk mitigation strategies to guarantee data integrity and operational continuity.</li>
-            <li>Became the GO-TO for IBM Global Migration Team when they couldn't complete a migration with their team and tools.</li>
+            <li>Became the GO-TO for IBM Global Migration Team when they could not complete a migration with their team and tools.</li>
           </ul>
         </>
       ),
