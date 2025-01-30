@@ -88,7 +88,7 @@ interface WorkExperienceItemProps {
  * Handles responsive layout for badges (mobile/desktop)
  */
 function WorkExperienceItem({ work }: WorkExperienceItemProps) {
-  const { company, link, badges, title, start, end, description } = work;
+  const { company, link, title, start, end, description } = work;
 
   return (
     <Card className="py-1 print:py-0">
