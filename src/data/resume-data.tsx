@@ -142,7 +142,7 @@ export const RESUME_DATA = {
           establishing engineering culture.
           <ul className="list-inside list-disc">
             <li>Helped design and deploy secure IT solutions for law firms such as <b>Troutman Sanders, King & Spalding, Alston & Bird</b>, ensuring compliance with legal industry standards.</li>
-            <li>Provided infrastructure support for government and enterprise clients, including <b>>Oak Ridge National Laboratory</b> and <b>Lockheed Martin</b>.</li>
+            <li>Provided infrastructure support for government and enterprise clients, including <b>Oak Ridge National Laboratory</b> and <b>Lockheed Martin</b>.</li>
             <li>Implemented secure, high-availability storage solutions for legal and classified environments.</li>
             <li>Ensured business continuity through robust disaster recovery planning.</li>
           </ul>
